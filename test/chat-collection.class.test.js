@@ -1,0 +1,1 @@
+var ChatCollection = require('../src/chat-collection.class');
