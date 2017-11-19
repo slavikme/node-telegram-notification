@@ -1,5 +1,5 @@
 {
-  "name": "node-telegram-nitification",
+  "name": "node-telegram-notification",
   "version": "1.0.0",
   "description": "NodeJS Telegram Notification",
   "author": "Slavik Meltser <slavik@mlt.sr>",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/slavikme/node-telegram-nitification.git"
+    "url": "https://github.com/slavikme/node-telegram-notification.git"
   },
   "dependencies": {
     "flat-file-db": "^1.0.0",

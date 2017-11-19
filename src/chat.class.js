@@ -1,4 +1,4 @@
-const ChatError = require('error/chat-error.class');
+const ChatError = require('./error/chat-error.class');
 
 const VALID_CHAT_TYPES = ['private', 'group'];
 const MICROSECONDS_SEPARATOR_TIME = 1000000000000;
