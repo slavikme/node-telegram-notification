@@ -59,3 +59,4 @@ typings/
 
 .idea/
 db/
+package-lock.json
